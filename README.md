@@ -42,7 +42,7 @@ The dataset contains passenger information such as:
 
 ---
 
-## 📊 Exploratory Data Analysis Performed
+##  Exploratory Data Analysis Performed
 
 ### Data Inspection
 - Displayed the first five records
