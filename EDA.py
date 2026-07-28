@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load Dataset
-df = pd.read_csv(r"C:/Users/SAFIYA BANU/Downloads/titanic.csv")
+df = pd.read_csv(r"titanic.csv")
 
 # Display first 5 rows
 print(df.head())
